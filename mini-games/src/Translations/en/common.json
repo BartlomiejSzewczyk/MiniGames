@@ -1,0 +1,8 @@
+{
+  "play": "Play",
+  "minesweeper-fieldSize": "Game size: ",
+  "minesweeper-win": "You won!",
+  "minesweeper-lose": "You lost!",
+  "minesweeper-bombsNumber": "Number of bombs: ",
+  "minesweeper-bombsLeft": "Bombs left: "
+}

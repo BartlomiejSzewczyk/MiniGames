@@ -1,0 +1,8 @@
+{
+  "play": "Graj",
+  "minesweeper-fieldSize": "Rozmiar gry: ",
+  "minesweeper-wonGame": "Wygrałeś!",
+  "minesweeper-lose": "Przegrałeś!",
+  "minesweeper-bombsNumber": "Liczba bomb: ",
+  "minesweeper-bombsLeft": "Pozostało bomb: "
+}
